@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Ruby on Rails, ML, Flutter.
 - 📫 How to reach me:
   - Telegram: [@csolg](https://t.me/csolg)
+  - [LinkedIn](https://www.linkedin.com/in/csolg/)
 
 <!---
 csolg/csolg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
